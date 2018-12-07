@@ -20,13 +20,6 @@ The latest version of the code package for the entire book is always found in ou
 
 https://github.com/emilbjornson/massivemimobook
 
-# How to use the MATLAB Code Package
-
-Set the network parameters in main.m. Then, run it. Copy the data samples in MyDataFile_{i}.mat; that is, MyDataFile_0.mat, MyDataFile_1.mat and MyDataFile_2.mat. Unfortunately, we could not provide the data files because they were too big. 
-
-Run transform_data_maxmin.m to put toghetter and reshape all the data samples for the KERAS code package for max-min. The file transform_data_maxprod.m does the same for the max-prod package. 
-
-MyDataFile_0.mat is used from the KERAS code package for testing the neural network after training.
  
 # Content of KERAS Code Package
 
