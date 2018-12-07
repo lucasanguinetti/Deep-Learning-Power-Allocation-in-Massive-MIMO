@@ -1,9 +1,9 @@
 # Deep-Learning-Power-Allocation-in-Massive-MIMO
 
 This is the code package related to the follow scientific article:
-Luca Sanguinetti, Alessio Zappone, Merouane Debbah 'Deep-Learning-Power-Allocation-in-Massive-MIMO' presented at ASILOMAR 2018.
+Luca Sanguinetti, Alessio Zappone, Merouane Debbah 'Deep-Learning-Power-Allocation-in-Massive-MIMO' presented at the Asilomar Conference on Signals, Systems, and Computers, 2018. http://www.asilomarsscconf.org
 
-
+ 
 # Abstract of Article
 
 This work advocates the use of deep learning to perform max-min and max-prod power allocation in the downlink of Massive MIMO networks. More precisely, a deep neural network is trained to learn the map between the positions of user equipments (UEs) and the optimal power allocation policies, and then used to predict the power allocation profiles for a new set of UEs’ positions. The use of deep learning significantly improves the complexity-performance trade-off of power allocation, compared to traditional optimization-oriented methods. Particularly, the proposed approach does not require the computation of any statistical average, which would be instead necessary by using standard methods, and is able to guarantee near-optimal performance.
