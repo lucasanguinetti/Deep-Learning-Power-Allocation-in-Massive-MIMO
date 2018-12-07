@@ -20,7 +20,7 @@ https://github.com/emilbjornson/massivemimobook
 
 # Content of KERAS Code Package
 
-The package contains also a simulation environment, based on KERAS, to train and execute the deep learning power allocation algorithm.
+The package contains also a simulation environment, based on KERAS, to train and execute the deep learning power allocation algorithm with the max-min and max-prod power allocation strategies.
 
 # License and Referencing
 
