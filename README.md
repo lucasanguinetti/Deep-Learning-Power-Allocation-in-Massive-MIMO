@@ -20,7 +20,7 @@ The latest version of the code package for the entire book is always found in ou
 
 https://github.com/emilbjornson/massivemimobook
 
-# Content of MATLAB Code Package
+# How to use the MATLAB Code Package
 
 Set the network parameters in main.m. Then, run it. Copy the data samples in MyDataFile_{i}.mat; that is, MyDataFile_0.mat, MyDataFile_1.mat and MyDataFile_2.mat. Unfortunately, we could not provide the data files because they are too big. 
 
