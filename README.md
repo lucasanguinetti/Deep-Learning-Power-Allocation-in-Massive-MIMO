@@ -20,6 +20,14 @@ The latest version of the code package for the entire book is always found in ou
 
 https://github.com/emilbjornson/massivemimobook
 
+# Content of MATLAB Code Package
+
+Set the network parameters in main.m. Then, run it.Save the data samples in MyDataFile_{i}.mat. 
+
+Run transform_data_maxmin.m to put toghetter and reshape all the data samples for the KERAS code package for max-min. The file transform_data_maxprod.m does the same for the max-prod package. We provided MyDataFile_1.mat and MyDataFile_2.mat, each of 5K training samples. 
+
+MyDataFile_0.mat is used from the KERAS code package for testing the neural network after training.
+ 
 # Content of KERAS Code Package
 
 The package contains also a simulation environment, based on KERAS, to train and execute the deep learning power allocation algorithm with the max-min and max-prod power allocation strategies.
