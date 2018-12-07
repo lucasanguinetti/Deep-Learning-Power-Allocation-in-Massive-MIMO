@@ -15,7 +15,7 @@ The package contains a simulation environment, based on MATLAB, that allows to p
 Emil Bjornson, Jakob Hoydis and Luca Sanguinetti (2017), "Massive MIMO Networks: Spectral, Energy, and Hardware Efficiency", Foundations and Trends in Signal Processing: Vol. 11, No. 3-4, pp. 154-655. 
 
 You can download a free PDF of the manuscript at https://massivemimobook.com 
-are
+
 The latest version of the code package for the entire book is always found in our Github repository:
 
 https://github.com/emilbjornson/massivemimobook
