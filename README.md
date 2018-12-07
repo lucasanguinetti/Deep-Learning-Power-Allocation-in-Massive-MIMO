@@ -15,14 +15,14 @@ The package contains a simulation environment, based on MATLAB, that allows to p
 Emil Bjornson, Jakob Hoydis and Luca Sanguinetti (2017), "Massive MIMO Networks: Spectral, Energy, and Hardware Efficiency", Foundations and Trends in Signal Processing: Vol. 11, No. 3-4, pp. 154-655. 
 
 You can download a free PDF of the manuscript at https://massivemimobook.com 
-
+are
 The latest version of the code package for the entire book is always found in our Github repository:
 
 https://github.com/emilbjornson/massivemimobook
 
 # How to use the MATLAB Code Package
 
-Set the network parameters in main.m. Then, run it. Copy the data samples in MyDataFile_{i}.mat; that is, MyDataFile_0.mat, MyDataFile_1.mat and MyDataFile_2.mat. Unfortunately, we could not provide the data files because they are too big. 
+Set the network parameters in main.m. Then, run it. Copy the data samples in MyDataFile_{i}.mat; that is, MyDataFile_0.mat, MyDataFile_1.mat and MyDataFile_2.mat. Unfortunately, we could not provide the data files because they were too big. 
 
 Run transform_data_maxmin.m to put toghetter and reshape all the data samples for the KERAS code package for max-min. The file transform_data_maxprod.m does the same for the max-prod package. 
 
@@ -30,7 +30,7 @@ MyDataFile_0.mat is used from the KERAS code package for testing the neural netw
  
 # Content of KERAS Code Package
 
-The package contains also a simulation environment, based on KERAS, to train and execute the deep learning power allocation algorithm with the max-min and max-prod power allocation strategies.
+The package containining the simulation environment, based on KERAS, to train and execute the deep learning power allocation algorithm with the max-min and max-prod power allocation strategies WILL BE PROVIDED SOON when the extended version of the article will published.
 
 # License and Referencing
 
