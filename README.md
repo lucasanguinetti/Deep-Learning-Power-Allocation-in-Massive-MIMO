@@ -1,6 +1,6 @@
 # Deep-Learning-Power-Allocation-in-Massive-MIMO
 
-This is the code package related to the follow scientific article:
+This is the code package related to the following scientific article:
 Luca Sanguinetti, Alessio Zappone, Merouane Debbah 'Deep-Learning-Power-Allocation-in-Massive-MIMO' presented at the Asilomar Conference on Signals, Systems, and Computers, 2018. http://www.asilomarsscconf.org
 
  
