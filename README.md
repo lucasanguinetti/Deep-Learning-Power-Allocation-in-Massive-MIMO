@@ -25,6 +25,13 @@ https://github.com/emilbjornson/massivemimobook
 
 The package containining the simulation environment, based on KERAS, to train and execute the deep learning power allocation algorithm with the max-min and max-prod power allocation strategies is contained in the 'PYTHON_CODE' folder. To run it, one needs to first generate a data sample and a testing sample by using the MATLAB code (which produces the 'MyDataFile.mat' files), and then run the 'transform_data_maxmin.m' and 'transform_data_maxprod.m' to extract the data required for the python code.
 
+The entire data set to generate the results of the paper:
+
+Luca Sanguinetti, Alessio Zappone, Merouane Debbah 'Deep-Learning-Power-Allocation-in-Massive-MIMO' presented at the Asilomar Conference on Signals, Systems, and Computers, 2018. http://www.asilomarsscconf.org
+
+can be found at the following link https://data.ieeemlc.org/Ds2Detail 
+
+
 # License and Referencing
 
 This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite our original article listed above.
