@@ -23,7 +23,7 @@ https://github.com/emilbjornson/massivemimobook
  
 # Content of KERAS Code Package
 
-The package containining the simulation environment, based on KERAS, to train and execute the deep learning power allocation algorithm with the max-min and max-prod power allocation strategies is contained in the 'PYTHON_CODE' folder. To run it, one needs to first generate a data sample and a testing sample by using the MATLAB code. 
+The package containining the simulation environment, based on KERAS, to train and execute the deep learning power allocation algorithm with the max-min and max-prod power allocation strategies is contained in the 'PYTHON_CODE' folder. To run it, one needs to first generate a data sample and a testing sample by using the MATLAB code (which produces the 'MyDataFile.mat' files), and then run the 'transform_data_maxmin.m' and 'transform_data_maxprod.m' to extract the data required for the python code.
 
 # License and Referencing
 
